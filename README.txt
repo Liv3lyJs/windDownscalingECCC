@@ -1,11 +1,40 @@
-﻿- Wind downscaling project done by Jean-Sebastien Giroux - Undergraduate Electrical Engineering Student at Sherbrooke University, doing an internship (1 year) at ECCC
-                                   Simon-Philippe Breton - Environment and Climate Change Canada (ECCC) - Project leader and expert in wind and physic
-								   Julie Carreau         - Polytechnique Montreal                       - Professor helping directing the project and expert in deep learning
+﻿GENERAL PROJECT INFORMATION
+Code from the Paper "Interpolation-free deep learning for meteorological downscaling on unaligned grids across multiple domains 
+                     with application to wind power" 
+currently in revision at Artificial Intelligence for the Earth Systems Journal.
+This project has been done by:
+                                .Jean-Sebastien Giroux 
+                                                       Background: 
+                                                       - Undergraduate Electrical Engineering Student at Sherbrooke University,
+                                                       - Internship with Environment and Climate Change Canada (ECCC).
+                                                       Role in the project:
+                                                       - Lead Programmer - Data processing and Neural Netowork pipeline and optimization, 
+                                                       - Deep Learning Researcher - Coming out with research ideas,
+                                                       - Article Writting - Writing the first version of the paper DL.
+                                                       * Corresponding author - girj2625@usherbrooke.ca
+                                .Simon-Philippe Breton 
+                                                       Background:
+                                                       - Physical Scientist ECCC, Expert in wind and physic.
+                                                       Role in the project:
+                                                       - Project Leader - In charge of the downscaling project at ECCC,
+                                                       - Program developper - Developped code for meteorological models, and wind ramp detection
+                                                       - Meteorological Researcher - Coming out with research ideas.
+                                                       - Article Writting - Writing the first version of the paper Meteorological section. 
+								.Julie Carreau        
+                                                       Background:
+                                                       - Assistant Professor Mathematics Polytechnique Montreal.
+                                                       Role in the project:                       
+                                                       - Deep Learning Researcher - Coming out with research ideas,
+                                                       - Mentors - Guiding the DL section, 
+                                                       - Article Writting - Improving the article quality.
 
-- Project done from 10/01/2023 to 09/30/2024, funded by Resource Naturel Canada
+The project done from 10/01/2023 to 09/30/2024 (1 year), funded by Resource Naturel Canada.
 
-- The goal of the project is to downscale wind at a 10m level from the REPS low resolution grid (10Km) to the Mesoanalysis High resolution grid (2.5Km). 
+The goal of the project is to use a Deep Learning (DL) algorithm to downscale wind (UV) at a 10m level from the REPS low resolution grid (10Km) 
+to the Mesoanalysis High resolution grid (2.5Km) at 10m level. 
 
+
+CODE INFORMATION
 - Create a conda virtual environment and download packages:
     1. Install anaconda or miniconda
     2. When installation done do the following line:
