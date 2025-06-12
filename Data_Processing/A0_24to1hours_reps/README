@@ -1,0 +1,7 @@
+This is Simon-Philippe script to put 24h data on a hourly file from raw data. 
+- You have to select the start date and the end date
+- You also have to select the input folder and outpur folder
+- You need to select the model pass. In can be either 00, 06, 12, 18. 
+
+- To run the script do the modifications and in the terminal do:
+   ./REPS_24h_to_1h.sh
