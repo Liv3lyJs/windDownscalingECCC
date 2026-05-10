@@ -95,10 +95,3 @@ section.
 4. B_convert_npy  
 5. C_normalize  
 Bonus. data_processing.sh
-
-
-
-############################################################
-NEURAL NETWORK FUNCTIONALITIES (Neural_Network folder)
-############################################################
-
