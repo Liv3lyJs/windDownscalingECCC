@@ -1,6 +1,4 @@
-﻿############################################################
-GENERAL PROJECT INFORMATION
-############################################################
+## GENERAL PROJECT INFORMATION
 Code from the Paper "Interpolation-free deep learning for meteorological downscaling on unaligned grids across multiple domains with application to wind power" 
 currently in revision at Artificial Intelligence for the Earth Systems Journal. Available as a PrePrint here: https://doi.org/10.48550/arXiv.2410.03945
 
@@ -36,10 +34,7 @@ The goal is to use a Deep Learning (DL) algorithm to downscale wind (UV) at a 10
 to the Mesoanalysis High resolution grid (2.5Km) at 10m level. 
 
 
-
-############################################################
-VIRTUAL ENVIRONMENT CREATION & PACKAGE INSTALLATION
-############################################################
+## VIRTUAL ENVIRONMENT CREATION & PACKAGE INSTALLATION
 Create a conda virtual environment and download packages:
 1. Install anaconda or miniconda
 2. When installation is done do the following line:
@@ -48,10 +43,7 @@ Create a conda virtual environment and download packages:
     pip install -r requirements.txt
 
 
-
-############################################################
-DATA PROCESSING FUNCTIONALITIES (Data_Processing folder)
-############################################################
+## DATA PROCESSING FUNCTIONALITIES (Data_Processing folder)
 GENERAL OBJECTIF
 - Preparing the data in a format that can be used to train the Neural Networks
 
