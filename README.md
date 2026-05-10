@@ -1,6 +1,6 @@
 ## GENERAL PROJECT INFORMATION
 Code from the Paper "Interpolation-free deep learning for meteorological downscaling on unaligned grids across multiple domains with application to wind power" 
-currently in revision at Artificial Intelligence for the Earth Systems Journal. Available as a PrePrint here: https://doi.org/10.48550/arXiv.2410.03945  
+currently in revision at Artificial Intelligence for the Earth Systems Journal. Available here: [https://doi.org/10.48550/arXiv.2410.03945  ](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0097.1.xml)  
 
 This project has been done by:  
     .Jean-Sebastien Giroux  
